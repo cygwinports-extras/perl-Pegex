@@ -1,0 +1,15 @@
+CPAN_AUTHOR=ingy
+inherit perl
+
+NAME="perl-Pegex"
+VERSION=0.60
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution Pegex"
+DESCRIPTION="Pegex is an Acmeist parser framework. It allows you to easily
+create parsers that will work equivalently in lots of programming languages.
+The inspiration for Pegex comes from the parsing engine upon which Perl 6 is
+based on. Pegex brings this beauty to the other justmodern languages that have
+a normal regular expression engine available."
+
+ARCH=noarch
